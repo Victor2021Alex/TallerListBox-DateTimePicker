@@ -13,7 +13,7 @@ namespace TallerListBox_DateTimePicker
         {       
             listaGeneral.Add("Victor Bermello");
             listaGeneral.Add("Alex Vera");
-            listaGeneral.Add("Juean Mena");
+            listaGeneral.Add("Juan Mena");
             listaGeneral.Add("Cristhian Zambrano");
             listaGeneral.Add("Maria Catro");
             listaGeneral.Add("Jhon Hidalgo");
